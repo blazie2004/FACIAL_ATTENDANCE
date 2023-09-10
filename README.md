@@ -1,5 +1,7 @@
 # FACIAL_ATTENDANCE
 
+VIDEO LINK:-
+
 This project aims to streamline attendance management, making it more accurate, efficient, and user-friendly. It combines cutting-edge technologies in computer vision and machine learning with a user-friendly web interface to create a versatile system suitable for educational institutions, offices, and various organizations.
 
 Whether you're tracking attendance or verifying identities in real-time, the "Face Recognition Attendance System with Real-Time Prediction" offers a comprehensive solution that brings automation and accuracy to your processes.
